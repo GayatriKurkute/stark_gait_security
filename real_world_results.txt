@@ -1,0 +1,17 @@
+Loading dataset...
+Train samples: 3726 | Val samples: 466 | Test samples: 480
+
+Training Stark Security Identification Model...
+
+================ EVALUATION METRICS ================
+Validation Accuracy: 72.96%
+Test Accuracy:       62.29%
+====================================================
+
+Accuracy below 80%, consider adjusting hyperparameters.
+Found 1 real-world subject files for testing.
+Subject 1 (subject01.csv) Accuracy: 0.00%
+
+================ REAL-WORLD EVALUATION RESULTS ================
+Overall Real-World Identification Accuracy: 0.00%
+=================================================================
